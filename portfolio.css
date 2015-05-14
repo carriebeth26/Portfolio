@@ -1,0 +1,28 @@
+
+
+
+.container-fluid.home {
+    background-image: url("backg.png");
+    background-size: cover;
+    height: 700px;
+}
+.col-md-10 .homeText {
+    width: 760px;
+    height: 265px;
+    padding-top: 404px;
+    margin-left: 85px;
+}
+
+.btn {
+    height: 700px;
+    background-image: url("cc.png");
+    background-size: cover;
+    margin-left: -16px;
+    padding-right: 34px;
+    padding-left: 19px;
+}
+.glyphicon {
+    position: absolute;
+    top: 10px;
+    color: #FFFFFF;
+}
